@@ -1,3 +1,7 @@
+body {
+    background-color: #f7ece1;
+}
+
 .form {
     display: flex;
     flex-wrap: wrap;
